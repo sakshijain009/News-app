@@ -1,4 +1,4 @@
-# Textutils App
+# News App - Read News Daily!
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). In this app we have used the [NEWS API](https://newsapi.org/) to display the data. The project is created using "Class Based Compenents".
 
