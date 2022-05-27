@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Clone the repo
 
- `git clone https://github.com/sakshijain009/textutils.git`
+ `git clone https://github.com/sakshijain009/newsapp.git`
  
 ## Install Dependencies
 
