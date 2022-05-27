@@ -19,4 +19,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## Preview of the app
 <img src="img.png">
-<img src="phone1.png" width="100">
+
+## Phone View
+<p float="left">
+  <img src="phone1.png" width="300">
+  <img src="phone2.png" width="300">
+</p>
