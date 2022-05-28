@@ -1,4 +1,4 @@
-# News App - Read News Daily!
+# News App - Read News Daily! [![Made withReact](https://img.shields.io/badge/Made%20with-React-blue?style=for-the-badge&logo=React)]() 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). In this app we have used the [NEWS API](https://newsapi.org/) to display the data. The project is created using "Class Based Compenents".
 
